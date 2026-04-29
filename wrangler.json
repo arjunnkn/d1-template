@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "1e6178e1-688a-4c3e-b74b-8b6bc451f4aa",
+			"database_name": "testarj"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
